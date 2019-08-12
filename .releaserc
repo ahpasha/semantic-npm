@@ -1,6 +1,5 @@
 {
     "branch": "master",
-    "dryRun": "true",
     "ci": "false",
     "repositoryUrl": "https://github.com/ahpasha/semantic-npm.git"
 }
