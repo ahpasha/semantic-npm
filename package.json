@@ -1,5 +1,5 @@
 {
-  "name": "semantic",
+  "name": "semantic-banki",
   "description": "",
   "main": "index.js",
   "dependencies": {},
@@ -11,5 +11,6 @@
     "publish": "semantic-release --dry-run false --ci false"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "version": "1.0.0"
 }
