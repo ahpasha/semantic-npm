@@ -5,7 +5,7 @@
   "dependencies": {},
   "devDependencies": {
     "@semantic-release/npm": "^5.1.13",
-    "semantic-release": "^15.13.19"
+    "semantic-release": "^17.2.3"
   },
   "scripts": {
     "publish": "semantic-release --dry-run false --ci false"
